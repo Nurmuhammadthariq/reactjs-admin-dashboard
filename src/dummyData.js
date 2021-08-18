@@ -67,16 +67,16 @@ export const productData = [
 export const userRows = [
   {
     id: 1,
-    username: 'Jon Snow',
+    username: 'Anzal Fadly Hadi',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-    email: 'jon@gmail.com',
+    email: 'fadly@gmail.com',
     status: 'active',
     transaction: '$120.00',
   },
   {
     id: 2,
-    username: 'Jon Snow',
+    username: 'Itang Fauzan',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -85,7 +85,7 @@ export const userRows = [
   },
   {
     id: 3,
-    username: 'Jon Snow',
+    username: 'Septiana Adila Khoir',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -94,7 +94,7 @@ export const userRows = [
   },
   {
     id: 4,
-    username: 'Jon Snow',
+    username: 'Royan Akbar',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -103,7 +103,7 @@ export const userRows = [
   },
   {
     id: 5,
-    username: 'Jon Snow',
+    username: 'Krisna Wijaya',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -112,7 +112,7 @@ export const userRows = [
   },
   {
     id: 6,
-    username: 'Jon Snow',
+    username: 'Aris Saifulloh',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -121,7 +121,7 @@ export const userRows = [
   },
   {
     id: 7,
-    username: 'Jon Snow',
+    username: 'Hamdani',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -130,7 +130,7 @@ export const userRows = [
   },
   {
     id: 8,
-    username: 'Jon Snow',
+    username: 'Fajar',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -139,7 +139,7 @@ export const userRows = [
   },
   {
     id: 9,
-    username: 'Jon Snow',
+    username: 'John Wick',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
@@ -148,7 +148,7 @@ export const userRows = [
   },
   {
     id: 10,
-    username: 'Jon Snow',
+    username: 'John Wick',
     avatar:
       'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     email: 'jon@gmail.com',
